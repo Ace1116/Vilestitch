@@ -1,4 +1,4 @@
-print("This is the fruits module.")
+print("This is the fruits module")
 
 
 
